@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "library.h"
+#include "strings.h"
 
 
 String *string_example;
