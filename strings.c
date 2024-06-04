@@ -1,4 +1,4 @@
-#include "strlib.h"
+#include "strings.h"
 #include <stdio.h>
 String init_string(char *str)
 {
