@@ -1,7 +1,7 @@
 #ifndef STRINGSTEST_H
 #define STRINGSTEST_H
 
-#include "strlib.h"
+#include "strings.h"
 void t_str_cat();
 void t_str_substring();
 void t_str_split();
