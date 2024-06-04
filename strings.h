@@ -1,5 +1,5 @@
-#ifndef strlib_H
-#define strlib_H
+#ifndef strings_H
+#define strings_H
 
 #include <stdlib.h>
 
