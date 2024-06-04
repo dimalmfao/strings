@@ -1,5 +1,5 @@
-#ifndef STRLIBTEST_H
-#define STRLIBTEST_H
+#ifndef STRINGSTEST_H
+#define STRINGSTEST_H
 
 #include "strlib.h"
 void t_str_cat();
