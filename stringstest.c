@@ -1,6 +1,6 @@
 #include <stdio.h>
-#include "strlibtest.h"
-#include "strlib.h"
+#include "stringstest.h"
+#include "strings.h"
 #define RED   "\x1B[31m"
 #define GRN   "\x1B[32m"
 #define RESET "\x1B[0m"
