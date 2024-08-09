@@ -61,7 +61,7 @@ String str2 = init_string("world!");
 String concatenated = str_cat(str1, str2);
 ```
 
-###Comparing Strings
+### Comparing Strings
 
 ```c
 String str1 = init_string("hello");
